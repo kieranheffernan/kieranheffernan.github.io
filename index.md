@@ -20,6 +20,6 @@
 
 [Map with layers plus animation](https://kieranheffernan.github.io/week-5/web-map/index3.html)
 
-# Grace and Lacy
+# Grace and Lace
 
 [Index](https://kieranheffernan.github.io/Grace-and-Lace/intro)
